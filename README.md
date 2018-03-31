@@ -1,1 +1,1 @@
-# C-console-based-ludo
+# C++-console-based-ludo
